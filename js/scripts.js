@@ -285,7 +285,7 @@
         if (event.isDefaultPrevented()) {
             // handle the invalid form...
             pformError();
-            psubmitMSG(false, "Please fill all fields!");
+            psubmitMSG(false, "لطفا فیلد های مربوطا را پر کنید");
         } else {
             // everything looks good!
             event.preventDefault();
