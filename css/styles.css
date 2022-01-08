@@ -1004,7 +1004,7 @@ screen and (-ms-high-contrast: none) {
     margin-bottom: 1rem;
     margin-left: auto;
     line-height: 6rem;
-    text-align: right;
+    text-align: left;
 }
 
 .cards-1 .fa-stack .hexagon {
